@@ -48,4 +48,4 @@ jupyter notebook RR_Car_Price_Prediction.ipynb
 
 ## Results
 
-See the notebook and `Report.pdf` for model comparison, findings, limitations and practical implications.
+See the notebook and `Report.pdf` for model comparison, findings, limitations and practical implications
